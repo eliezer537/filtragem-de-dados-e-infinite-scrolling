@@ -1,3 +1,8 @@
-<h1>Aplicação com consumo da API REST JSONPlaceholder.</h1>
-<h3><strong>Funcionalidades: </strong>Scroll infinito e filtragem de dados.</h3>
+# Aplicação com consumo da API REST JSONPlaceholder.
+## <strong>Funcionalidades: </strong>Scroll infinito e filtragem de dados.
+### Tecnologias utilizadas:
+- HTML
+- CSS
+- Javascript
+
 <img src='./assets/demo.gif' />
